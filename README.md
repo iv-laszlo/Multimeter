@@ -1,24 +1,25 @@
 # Multimeter
 
-Digital Multimeter
 This project is a custom-built Digital Multimeter developed by a student team, as part of an academic project. The device is capable of measuring voltage, current, and resistance, and was designed from the ground up using embedded systems and custom PCB design.
 
 Features
-Measures DC voltage, current, resistance, and temperature
 
-Built using a microcontroller with analog signal processing
+    Measures DC voltage, current, resistance, and temperature
 
-Designed in KiCad for schematic and PCB layout
+    Built using a microcontroller with analog signal processing
 
-Fully functional firmware written in C/C++
+    Designed in KiCad for schematic and PCB layout
 
-Simple and intuitive user interface
+    Fully functional firmware written in C/C++
+
+    Simple and intuitive user interface
 
 Tools & Technologies
-Microcontroller: Aruino Nano [ATmega328P]
 
-KiCad: PCB and schematic design
+    Microcontroller: Aruino Nano [ATmega328P]
 
-C/C++: Firmware development
+    KiCad: PCB and schematic design
 
-Multimeter principles: Analog signal acquisition, ADC, display interface
+    C/C++: Firmware development
+
+    Multimeter principles: Analog signal acquisition, ADC, display interface
